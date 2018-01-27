@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Samsung Galaxy Grand Prime</RomName>
+  <VersionName>3.2.3-3S Attractive Amber</VersionName>
+  <VersionNumber type="integer">20171105</VersionNumber>
+  <DirectUrl><![CDATA[http://hybridota.5gbfree.com/ota/prime3/ota/20171104/samsung-galaxy-grand-prime.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[http://hybridevelopers.dx.am/downloads]]></HttpUrl>
+  <Android>7.0.1</Android>
+  <CheckMD5 nil="true" />
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer">69457916</FileSize>
+  <Developer>Jovic77, mdmaher</Developer>
+  <WebsiteURL><![CDATA[http://hybridevelopers.dx.am]]></WebsiteURL>
+  <DonateURL nil="true" />
+  <DonateURL></DonateURL>
+  <Changelog>
+#### It is recommended to keep your device fully charged during the update.
+
+##### Changelog for Prime 3.2.3-3S
+**Full changelogs are available at Hybrid Developers' blog.**
+
+* The November Security Patch
+* Fixes for camera, sensor, and vibrator.
+* Camera improvements for all variants
+* Performance fixes and improvements.
+* Updates to the following apps:
+	* Clock
+	* Hybrid Shop
+	* Samsung Music
+	* S Planner
+	* SystemUI
+	* Wallpaper Picker
+* Fixed apps using the S8 Clock Font as the number font.
+</Changelog>
+</ROM>
