@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Samsung Galaxy Grand Prime</RomName>
+  <VersionName>18.4.7-SUPRA</VersionName>
+  <VersionNumber type="integer">20180407</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/supra/fortunaxx/20180207/update.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
+  <Android>7.1.1</Android>
+  <CheckMD5 nil="true" />
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer">7491170</FileSize>
+  <Developer>Hybrid Development Team</Developer>
+  <WebsiteURL><![CDATA[https://hybridteam.github.io]]></WebsiteURL>
+  <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
+  <Changelog>
+##### Android 8.0.1 - Miix4 Build 18.4.7-SUPRA
+**Full changelogs are available at the official Hybrid Team Blog.**
+
+* The April 5 Security Patch
+* Peformance fixes and improvements
+* Changes to the lock screen user interface
+
+**If you download updates over a data connection or while roaming, additional charges may apply. It is advised to keep your device fully charged during the update.**
+</Changelog>
+</ROM>
