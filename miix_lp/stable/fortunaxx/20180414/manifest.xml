@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
-  <VersionName>18.4.14</VersionName>
-  <VersionNumber type="integer">20180414</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180414/update.zip]]></DirectUrl>
+  <VersionName>18.5.1</VersionName>
+  <VersionNumber type="integer">20180501</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180501/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
   <CheckMD5></CheckMD5>
-  <FileSize type="integer">7491170</FileSize>
+  <FileSize type="integer">77927147</FileSize>
   <Developer>Hybrid Development Team</Developer>
   <WebsiteURL><![CDATA[https://hybridteam.github.io]]></WebsiteURL>
   <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
   <Changelog>
-##### Android 8.0.1 - Miix4 Build 18.4.14
-**Full changelogs are available at the official Hybrid Team Blog.**
+##### Android 8.0.1 - Miix4 Build 18.5.1
 
-* The April 5 Security Patch
-* Kernel updates and optimizations
-* Peformance fixes and improvements
-* Changes to the lock screen user interface
+* The May One Security Patch
+* MxPlatform API version 4.3.0
+* Streamlining of system applications, fixing system hang
+* Kernel upstreaming, updates, and optimizations
+* Performance tweaks and improvements
+* Sensor fixes for a number of variants
+* Fixes to font rendering and anti-aliasing
 
-**If you download updates over a data connection or while roaming, additional charges may apply. It is advised to keep your device fully charged during the update.**
+**Updates to the following applications:**
+
+* ClockPackage - MX4.3_2018A
+* SamsungCalendar_MXP - MX4.3
+* SamsungIME - v5_SYSTEMUID_SWIFTKEY_VO
+* Messaging - MX4.3_2018A
+* SamsungVideoPlayer - 2018A_MX4.3
+* SecGallery - 2018A
+* SecMyFiles - 2018A_MX4.3
+* SystemUI - 2018A_MX4.3
+
+**If you download updates over a data connection or while roaming, additional data charges may apply. It is advised to keep your device fully charged during the update.**
 </Changelog>
 </ROM>
