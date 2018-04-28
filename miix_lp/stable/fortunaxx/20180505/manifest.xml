@@ -2,7 +2,7 @@
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
   <VersionName>18.5.5</VersionName>
-  <VersionNumber type="integer">20180505</VersionNumber>
+  <VersionNumber type="integer">20180506</VersionNumber>
   <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180505/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
