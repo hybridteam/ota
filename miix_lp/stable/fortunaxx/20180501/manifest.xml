@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
-  <VersionName>18.5.1</VersionName>
-  <VersionNumber type="integer">20180501</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180501/update.zip]]></DirectUrl>
+  <VersionName>18.5.5</VersionName>
+  <VersionNumber type="integer">20180505</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180505/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
   <CheckMD5></CheckMD5>
-  <FileSize type="integer">77927147</FileSize>
+  <FileSize type="integer">43431336</FileSize>
   <Developer>Hybrid Development Team</Developer>
-  <WebsiteURL><![CDATA[https://hybridteam.github.io]]></WebsiteURL>
+  <WebsiteURL><![CDATA[https://hybridteam.github.io/web/addon-store/store.html]]></WebsiteURL>
   <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
   <Changelog>
-##### Android 8.0.1 - Miix4 Build 18.5.1
+##### Android 8.0.1 - Miix4 Build 18.5.5
 
-* The May One Security Patch
-* MxPlatform API version 4.3.0
-* Streamlining of system applications, fixing system hang
-* Kernel upstreaming, updates, and optimizations
+* MxUI version 4.3.1
+* Changes to MxPlatform API > MxUI
 * Performance tweaks and improvements
-* Sensor fixes for a number of variants
-* Fixes to font rendering and anti-aliasing
+* Added ‘Assist button’ feature for users with Google Go installed
 
 **Updates to the following applications:**
 
-* ClockPackage - MX4.3_2018A
-* SamsungCalendar_MXP - MX4.3
-* SamsungIME - v5_SYSTEMUID_SWIFTKEY_VO
-* Messaging - MX4.3_2018A
-* SamsungVideoPlayer - 2018A_MX4.3
-* SecGallery - 2018A
-* SecMyFiles - 2018A_MX4.3
-* SystemUI - 2018A_MX4.3
+* MxUI_Core - 20180424
+* MxDevice 	- 18.5.19
+* SamsungIME - v6_2018A_SWIFTKEY_MX4
+* ThemeTrampoline - 20180425
+* SystemUI - 2018A_MX4.3-1
+
+**Note for 15.5.5:** If you have a different icon theme applied, you may need to re-apply it after this update.
 
 **If you download updates over a data connection or while roaming, additional data charges may apply. It is advised to keep your device fully charged during the update.**
 </Changelog>
