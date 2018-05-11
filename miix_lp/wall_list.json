@@ -1,0 +1,67 @@
+{
+	"Categories": [{
+			"name": "Light"
+		},
+		{
+			"name": "Dark"
+		},
+		{
+			"name": "Colorful"
+		},
+		{
+			"name": "SciFi"
+		},
+		{
+			"name": "Customworx"
+		},
+	        {
+			"name": "Custom Wallz"
+		},
+		{
+			"name": "Material"
+		},
+		{
+			"name": "Poly"
+		},
+		{
+			"name": "Other"
+		}
+	],
+
+	"Wallpapers": [{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/rg0Ztwq.png",
+			"thumbUrl": "https://i.imgur.com/rg0Ztwq.png",
+			"name": "Flows 1",
+			"category": "Light,Other"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/l6iMDaG.png",
+			"thumbUrl": "https://i.imgur.com/l6iMDaG.png",
+			"name": "Flows Dark 1",
+			"category": "Dark"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/WN0Hozy.png",
+			"thumbUrl": "https://i.imgur.com/WN0Hozy.png",
+			"name": "Tri-angle",
+			"category": "Light"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Lines",
+			"category": "Dark"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/W9uu5xn.png",
+			"thumbUrl": "https://i.imgur.com/W9uu5xn.png",
+			"name": "First",
+			"category": "Dark"
+		}
+	]
+}
