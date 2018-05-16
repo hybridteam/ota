@@ -3,7 +3,7 @@
   <RomName>Samsung Galaxy Grand Prime</RomName>
   <VersionName>Build 18.5.18</VersionName>
   <VersionNumber type="integer">20180518</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mix5_lp/stable/fortunaxx/20180518/update.zip]]></DirectUrl>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180518/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
