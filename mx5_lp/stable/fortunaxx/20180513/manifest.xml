@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Samsung Galaxy Grand Prime</RomName>
+  <VersionName>Build 18.5.13</VersionName>
+  <VersionNumber type="integer">20180513</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mix5_lp/stable/fortunaxx/20180513/update.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
+  <Android>8.0.1</Android>
+  <CheckMD5 nil="true" />
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer">43431336</FileSize>
+  <Developer>Hybrid Development Team</Developer>
+  <WebsiteURL></WebsiteURL>
+  <WebsiteURL nil="true" />
+  <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
+  <Changelog>
+##### Android 8.0.1 - Mx5 Build 18.5.13
+
+* Initial release of Miix 5.
+* MxUI version 5.1.2
+* Kernel upstreaming, updates, and optimizations
+* Performance tweaks and improvements
+
+**If you download updates over a data connection or while roaming, additional data charges may apply. It is advised to keep your device fully charged during the update.**
+</Changelog>
+</ROM>
