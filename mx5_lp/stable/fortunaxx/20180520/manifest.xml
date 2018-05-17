@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
-  <VersionName>Build 18.5.20</VersionName>
+  <VersionName>Build 18.5.19</VersionName>
   <VersionNumber type="integer">20180520</VersionNumber>
   <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180520/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
