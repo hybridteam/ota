@@ -9,19 +9,10 @@
 			"name": "Colorful"
 		},
 		{
-			"name": "SciFi"
+			"name": "Miix-themed"
 		},
 		{
-			"name": "Customworx"
-		},
-	        {
-			"name": "Custom Wallz"
-		},
-		{
-			"name": "Material"
-		},
-		{
-			"name": "Poly"
+			"name": "Galaxy"
 		},
 		{
 			"name": "Other"
@@ -33,35 +24,70 @@
 			"url": "https://i.imgur.com/rg0Ztwq.png",
 			"thumbUrl": "https://i.imgur.com/rg0Ztwq.png",
 			"name": "Samuel Freitas",
-			"category": "Light,Other"
+			"category": "Light,Miix-themed"
 		},
 		{
 			"author": "Samuel Freitas",
 			"url": "https://i.imgur.com/l6iMDaG.png",
 			"thumbUrl": "https://i.imgur.com/l6iMDaG.png",
 			"name": "Samuel Freitas",
-			"category": "Dark"
+			"category": "Dark,Miix-themed"
 		},
 		{
 			"author": "Samuel Freitas",
 			"url": "https://i.imgur.com/WN0Hozy.png",
 			"thumbUrl": "https://i.imgur.com/WN0Hozy.png",
 			"name": "Samuel Freitas",
-			"category": "Light"
+			"category": "Light,Miix-themed"
 		},
 		{
 			"author": "Samuel Freitas",
 			"url": "https://i.imgur.com/KYP5rjS.png",
 			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
 			"name": "Samuel Freitas",
-			"category": "Dark"
+			"category": "Dark,Miix-themed"
 		},
 		{
 			"author": "Samuel Freitas",
 			"url": "https://i.imgur.com/W9uu5xn.png",
 			"thumbUrl": "https://i.imgur.com/W9uu5xn.png",
 			"name": "Samuel Freitas",
-			"category": "Dark"
+			"category": "Dark,Miix-themed"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Samsung Electronics",
+			"category": "Dark,Galaxy"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Samsung Electronics",
+			"category": "Dark,Galaxy"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Eslam Khairy",
+			"category": "Dark,Miix-themed"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Eslam Khairy",
+			"category": "Dark,Miix-themed"
+		},
+		{
+			"author": "Samuel Freitas",
+			"url": "https://i.imgur.com/KYP5rjS.png",
+			"thumbUrl": "https://i.imgur.com/KYP5rjS.png",
+			"name": "Eslam Khairy",
+			"category": "Dark,Miix-themed"
 		}
 	]
 }
