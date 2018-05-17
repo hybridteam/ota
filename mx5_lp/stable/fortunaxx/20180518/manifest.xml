@@ -2,8 +2,8 @@
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
   <VersionName>Build 18.5.19</VersionName>
-  <VersionNumber type="integer">20180519</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180519/update.zip]]></DirectUrl>
+  <VersionNumber type="integer">20180520</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180520/update.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
@@ -15,8 +15,6 @@
   <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
   <Changelog>
 ##### Android 8.0.1 - Mx5 Build 18.5.19
-
-Details are fully available on Hybrid Development Team's blog.
 
 * Performance tweaks and improvements
 * Minor user interface tweaks and changes
