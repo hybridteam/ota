@@ -3,6 +3,7 @@
   <RomName>Samsung Galaxy Grand Prime</RomName>
   <VersionName>Miix 5</VersionName>
   <VersionNumber type="integer">20180513</VersionNumber>
+  <DirectUrl></DirectUrl>
   <HttpUrl>http://tiny.cc/Miix5UpdateFortuna</HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
