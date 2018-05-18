@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
-  <VersionName>18.5.1</VersionName>
-  <VersionNumber type="integer">20180501</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/miix_lp/stable/fortunaxx/20180501/update.zip]]></DirectUrl>
-  <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
+  <VersionName>Miix 5</VersionName>
+  <VersionNumber type="integer">20180513</VersionNumber>
+  <HttpUrl><![CDATA[http://tiny.cc/Miix5UpdateFortuna]]></HttpUrl>
   <Android>8.0.1</Android>
   <CheckMD5 nil="true" />
   <CheckMD5></CheckMD5>
-  <FileSize type="integer">77927147</FileSize>
+  <FileSize type="integer">142975471</FileSize>
   <Developer>Hybrid Development Team</Developer>
-  <WebsiteURL><![CDATA[https://hybridteam.github.io]]></WebsiteURL>
+  <WebsiteURL><![CDATA[https://hybridteam.github.io/web/addon-store/store.html]]></WebsiteURL>
   <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
   <Changelog>
-##### Android 8.0.1 - Miix4 Build 18.5.1
+Hi, Miix 4 user! Miix 5 is now out, and you could update directly **free!**
 
-* The May One Security Patch
-* MxPlatform API version 4.3.0
-* Streamlining of system applications, fixing system hang
-* Kernel upstreaming, updates, and optimizations
+**What's new with Miix 5?**
+
+* A new, refreshing user experience near to Samsung Experience.
+* Thorough performance patches and tweaking, making your phone much faster.
+* A more customizable user interface
+
+Beautified. Dreamified. **Miix 5.**
+
+**Due to issues with server file sizes, updating will redirect you to Google Drive. Download and flash the update manually.**
+
+**Changelog:**
+
+* Upgrade to Miix 5
+* MxUI version 5.1.2
 * Performance tweaks and improvements
-* Sensor fixes for a number of variants
-* Fixes to font rendering and anti-aliasing
+* Kernel upstreaming, updates, and optimizations
 
-**Updates to the following applications:**
-
-* ClockPackage - MX4.3_2018A
-* SamsungCalendar_MXP - MX4.3
-* SamsungIME - v5_SYSTEMUID_SWIFTKEY_VO
-* Messaging - MX4.3_2018A
-* SamsungVideoPlayer - 2018A_MX4.3
-* SecGallery - 2018A
-* SecMyFiles - 2018A_MX4.3
-* SystemUI - 2018A_MX4.3
+**Note:** If you have a different icon theme applied, you may need to re-apply it after this update.
 
 **If you download updates over a data connection or while roaming, additional data charges may apply. It is advised to keep your device fully charged during the update.**
 </Changelog>
