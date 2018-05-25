@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Samsung Galaxy Grand Prime</RomName>
+  <VersionName>Build 18.5.26</VersionName>
+  <VersionNumber type="integer">20180526</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180526/update.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
+  <Android>8.0.1</Android>
+  <CheckMD5>2b4deed37778d3a5682409800250c164</CheckMD5>
+  <FileSize type="integer">92992446</FileSize>
+  <Developer>Hybrid Development Team</Developer>
+  <WebsiteURL></WebsiteURL>
+  <WebsiteURL nil="true" />
+  <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
+  <Changelog>
+##### Android 8.0.1 - Mx5 Build 18.5.26
+Full details are available on our official blog.
+
+* **MxUI version 5.1.3**
+* **The June security patch**
+* **Performance tweaks and improvements**
+* **Change of application icons**
+* Addition of a Bluelight Filter
+* Replaced Flipboard Briefing with Google News
+* User experience improvements
+
+**Updates to the following applications:**
+
+* AndroidFrameworkRes - MX5.1_2018B_20180526
+* BluelightFilterCore - 20180526
+* CSCAppResource - 5.1.3_20180526
+* SystemUI - MX5.1_2018A_20180526
+* TouchWizHome - 2018B_Hybrid_20180526
+
+**Notes:**
+
+* Users with a custom icon pack may have to re-apply it after updating
+* You may have to re-organize your quick settings panel after updating
+* Google News only installs on Mx5 installations with Google Apps (Gapps) installed.
+
+
+
+
+**If you download updates over a data connection or while roaming, additional data charges may apply. It is advised to keep your device fully charged during the update.**
+</Changelog>
+</ROM>
