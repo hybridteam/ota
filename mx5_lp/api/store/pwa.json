@@ -6,7 +6,13 @@
   "description": "The Mx+ Store is your new go-to store for the best add-ons and themes for Miix.",
   "lang": "en",
   "theme_color": "#5BB86B",
+  "background_color": "#3CB9CA",
   "icons": [
+      {
+      "src": "images/splash-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
       {
       "src": "images/tiny.png",
       "sizes": "70x70",
@@ -83,5 +89,5 @@
     }
   ],
   "display": "standalone",
-  "orientation": "landscape"
+  "orientation": "any"
 }
