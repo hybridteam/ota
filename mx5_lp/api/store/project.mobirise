@@ -34,7 +34,7 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/projectpane-mx.png",
+    "favicon": "@PROJECT_PATH@/assets/images/gift-1.png",
     "noImageResize": "true",
     "cookiesAlert": ""
   },
