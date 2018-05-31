@@ -1,6 +1,6 @@
 {
   "name": "Mx+ Store",
-  "short_name": "MxPlus Store",
+  "short_name": "Mx+ Store",
   "scope": "/ota/mx5_lp/api/store/",
   "start_url": "https://hybridteam.github.io/ota/mx5_lp/api/store/",
   "description": "The Mx+ Store is your new go-to store for the best add-ons and themes for Miix.",
