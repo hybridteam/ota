@@ -14,9 +14,9 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/images/ota/mx5_lp/api/store/assets/images/gift-1.png",
+            "src": "/images/ota/mx5_lp/api/store/assets/images/gift-192px.png",
             "type": "image/png",
-            "sizes": "144x144"
+            "sizes": "192x192"
         }
     ]
 }
