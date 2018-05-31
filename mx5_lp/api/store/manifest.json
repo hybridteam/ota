@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Mx+ Store",
+    "scope": "/ota/mx5_lp/api/store/",
+    "display": "standalone",
+    "start_url": "https://hybridteam.github.io/ota/mx5_lp/api/store/",
+    "short_name": "MxPlus",
+    "theme_color": "transparent",
+    "description": "The Mx+ Store is your new go-to store for the best add-ons and themes for Miix.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/ota/mx5_lp/api/store/assets/images/gift-1.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ]
+}
