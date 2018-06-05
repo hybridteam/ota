@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Samsung Galaxy Grand Prime</RomName>
-  <VersionName>Build 18.6.1</VersionName>
-  <VersionNumber type="integer">20180601</VersionNumber>
-  <DirectUrl><![CDATA[https://hybridteam.github.io/ota/mx5_lp/stable/fortunaxx/20180601/update.zip]]></DirectUrl>
-  <HttpUrl><![CDATA[https://hybridteam.github.io/web/downloads.html]]></HttpUrl>
+  <VersionName>Build 18.6.8</VersionName>
+  <VersionNumber type="integer">20180608</VersionNumber>
+  <DirectUrl><![CDATA[https://hybridevteam.bitbucket.io/api/ota/mx5_lp/fortuna/20180608/update.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[https://hybridevteam.bitbucket.io/web/downloads.html]]></HttpUrl>
   <Android>8.0.1</Android>
-  <CheckMD5>903b9310096deb2bcd82885d98808f5b</CheckMD5>
-  <FileSize type="integer">47116386</FileSize>
+  <CheckMD5>5e65119849c3e2ccab1dfbf83ad3e42b</CheckMD5>
+  <FileSize type="integer">27078564</FileSize>
   <Developer>Hybrid Development Team</Developer>
   <WebsiteURL></WebsiteURL>
   <WebsiteURL nil="true" />
   <DonateURL>https://goo.gl/forms/KLXq1M8UMf2snCZe2</DonateURL>
   <Changelog>
-##### Android 8.0.1 - Mx5 Build 18.6.1
+##### Android 8.0.1 - Mx5 Build 18.6.8
 Full details are available on our official blog.
 
 * Performance tweaks and improvements
-* Merging of user-contributed app translations
-* Addition of the MxPlus Store app
-* Minor user experience improvements
 
 **Updates to the following applications:**
 
-* AndroidFrameworkRes - MX5.1_2018B_20180601
-* CSCAppResource - 20180601
-* MiixLauncher - 20180601
-* Hy_OTA - 5.1.3_20180601
-* ThemeCenter - 5.1.3_20180601
-* WallpaperPicker - 20180601
+* MiixWalls - 20180608
 
 **Notes:**
 
 * Booting after the update may take time
 * You may experience lagging for the first 15-25 minutes after updating
+
+
+As part of an open initiative, Hybrid Development Team is moving from GitHub, to Bitbucket.
+
+Learn more from Hybrid Development Team's official website.
 
 
 
